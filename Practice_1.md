@@ -8,7 +8,7 @@ This **API* is available at `https://google.com`
 ## Endpoints ##
 
 - [Status](#Status)
-- [Practice_Status](#PracticeStatus)
+- [Practice_Status](#Practice_Status)
 - [Tools](#Tools)
   - [Get all tools](#Get-all-tools)
   - [Get a single tool](#Get-a-single-tool)
