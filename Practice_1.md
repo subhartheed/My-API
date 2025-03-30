@@ -6,6 +6,11 @@ The API is available at `https://simple-tool-rental-api.glitch.me`
 This **API* is available at `https://google.com`
 
 ## Endpoints ##
+### Table of Contents
+<!-- TOC -->
+
+<!-- /TOC -->
+
 
 - [Status](#Status)
 - [Practice_Status](#Practice_Status)
@@ -31,7 +36,6 @@ Returns the status of the API.
 - `DOWN` indicates that the API is currently not working.
 
 ## Practice_Status ##
-
 **`GET /status`**
 
 Returns the status of the API.
